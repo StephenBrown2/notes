@@ -1,0 +1,260 @@
+---
+restaurants:
+  Big Apple Bagel:
+    name: Big Apple Bagel
+    website: bigapplebagels.com
+    locations:
+      location1:
+        address: 8434 Fredericksburg Road
+        phone: 210-614-3095
+      location2:
+        address: '19178 Blanco Road, Suite 205'
+        phone: 210-257-5505
+      location3:
+        address: '300 E. Houston St., Suite 105'
+        phone: 210-227-2227
+    description: 'serves breakfast all day. The menu includes breakfast sandwiches, muffins, and specialty coffee as well as lunch sandwiches. Find its hours and menu at bigapplebagels.com.'
+  Bagel Factory:
+    name: Bagel Factory
+    website: bagel-factory.com
+    locations:
+      location1:
+        address: '15909 San Pedro Ave., Suite 115'
+        phone: 210-499-0100
+    description: 'serves its breakfast menu all day and offers lunch as well. It is open 6 a.m.-2 p.m. Monday-Saturday and 7 a.m.-2 p.m. Sunday.'
+  CIA Bakery Cafe:
+    name: 'CIA Bakery Café'
+    website: facebook.com/ciabakerycafe
+    locations:
+      location1:
+        address: 312 Pearl Parkway
+        phone: 210-554-6464
+    description: 'offers its pastry items such as scones, croissants and more for as long as they last. It is open 7 a.m.-5 p.m. Tuesday-Saturday.'
+  Dennys:
+    name: "Denny's"
+    website: dennys.com
+    locations:
+      location1:
+        address: various
+        phone: 
+    description: 'serves its full menu 24 hours a day. The menu includes breakfast items such as a variety of slams, omelettes, pancakes, burritos and skillets as well as country-fried steak and eggs, T-bone steak and eggs, moon over my hammy and sides.'
+  Earl Abels:
+    name: "Earl Abel's"
+    website: earlabelssa.com
+    locations:
+      location1:
+        address: 1201 Austin Highway
+        phone: 210-269-3501
+    description: 'prepares breakfast all day. The menu includes a variety of dishes under the headings of eggs and more, three-egg omelets, smart breakfast, hot off the griddle, sides, breakfast tacos, and, on the run. To place to-go orders call 210-822-7333 or order online at earlabelssa.com for pickup or delivery.'
+  The Egg and I:
+    name: The Egg and I
+    website: theeggandirestaurants.com
+    locations:
+      location1:
+        address: 830 NW Loop 410
+        phone: 210-366-9000
+      location2:
+        address: 700 E. Sonterra Blvd.
+        phone: 210-491-0010
+      location3:
+        address: 16668 San Pedro Ave.
+        phone: 210-495-3447
+      location4:
+        address: 9985 I-10 W.
+        phone: 210-691-3447
+      location5:
+        address: 8603 Texas 151
+        phone: 210-684-3447
+    description: 'serves breakfast all day. A lunch menu is available as well. It is open 6 a.m.-2 p.m. Monday-Friday and 7 a.m.-2:30 p.m. Saturday-Sunday.'
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
+  NAME:
+    name: 
+    website: 
+    locations:
+      location1:
+        address: 
+        phone: 
+    description: 
